@@ -1,5 +1,4 @@
 
-```markdown
 # Truyền Thông và Quảng Cáo Website
 
 Đây là một trang web đơn giản về kiến thức về truyền thông và quảng cáo. Người dùng có thể điền vào một biểu mẫu để gửi thông tin của họ, và dữ liệu này sẽ được lưu trữ trong một cơ sở dữ liệu MySQL.
